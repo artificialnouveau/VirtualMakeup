@@ -1,4 +1,4 @@
-# VirtualMakeup
+# Virtual Makeup
 OpenCV Course 2 (Project 1): Virtual Makeup
 
 ## Feature 1: Apply Lipstick
